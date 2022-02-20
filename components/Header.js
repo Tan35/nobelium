@@ -120,8 +120,8 @@ const Header = ({ navBarTitle, fullWidth }) => {
                       </clipPath>
                     </defs>
                     <g id="favicon">
-                      <path d="M0 0L25.5273 0L25.5273 24L0 24L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
-                      <g clip-path="url(#mask_1)">
+                      <path d="M0 0L25.5273 0L25.5273 24L0 24L0 0Z" id="Background" fill="none" fillRule="evenodd" stroke="none" />
+                      <g clipPath="url(#mask_1)">
                         <path d="M22.3167 19.0937C18.4119 22.3477 14.5914 23.9627 10.8552 23.9387C7.11909 23.9145 4.23863 22.2875 2.21388 19.0576C0.189128 15.8276 -0.389372 11.6094 0.478379 6.40285C1.34613 1.19635 4.44352 -0.804299 9.77054 0.400909C15.0976 1.60612 19.4966 4.20936 22.9675 8.21067C26.4386 12.212 26.2217 15.8396 22.3167 19.0937L22.3167 19.0937Z" id="Shape" fill="url(#gradient_1)" stroke="none" />
                       </g>
                     </g>
