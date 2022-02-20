@@ -126,9 +126,6 @@ const Header = ({ navBarTitle, fullWidth }) => {
                       </g>
                     </g>
                   </svg>
-                  
-                {/* 左上角图标 */}
-
               </div>
             </a>
           </Link>
