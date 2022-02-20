@@ -116,7 +116,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                       </linearGradient>
                       <path d="M0 0L25.5273 0L25.5273 24L0 24L0 0Z" id="path_1" />
                       <clipPath id="mask_1">
-                        <use xlink:href="#path_1" />
+                        <use xlinkHref="#path_1" />
                       </clipPath>
                     </defs>
                     <g id="favicon">
