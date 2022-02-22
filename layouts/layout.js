@@ -42,7 +42,7 @@ const Layout = ({
                   alt={BLOG.author}
                   width={24}
                   height={24}
-                  src={'https://cdn.jsdelivr.net/gh/Tan35/ImgHosting/Tan35-PIC/avatar.png'}
+                  src={`https://gravatar.com/avatar/${emailHash}`}
                   className="rounded-full"
                 />
                 <p className="ml-2 md:block">{BLOG.author}</p>
